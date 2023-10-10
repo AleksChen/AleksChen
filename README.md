@@ -13,6 +13,5 @@
 
 
 ![Winwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenWenWu223&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenWenWu223&layout=pie)](https://chenwenwu223.github.io/blog/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenWenWu223&layout=pie)
