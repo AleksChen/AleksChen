@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winwoo </h1> 
 
-
-![Winwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksChen&show_icons=true&theme=transparent)
-
 <h3 align="left">A passionate frontend developer from China</h3>
 
 ![](https://views.whatilearened.today/views/github/AleksChen/AleksChen.svg)
